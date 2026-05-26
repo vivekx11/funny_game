@@ -1,2 +1,2 @@
 # funny_game
-# gamw will added soon
+# game will added soon
